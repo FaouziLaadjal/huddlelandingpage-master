@@ -8,7 +8,7 @@ export const Button = styled.button`
   cursor: pointer;
   padding: 15px 60px;
   background-color: ${({ bg }) => bg || "#fff"};
-  color: ${({ color }) => color || "hsl(192,100%,9%);"};
+  color: ${({ color }) => color || "hsl(192,100%,9%)"};
   &:hover {
     opacity: 0.9;
     transform: scale(0.98);
