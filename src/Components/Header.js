@@ -15,12 +15,9 @@ export default function Header() {
           <div>
             <h1>Build The Community Your Fans Will love</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. A,
-              ducimus quod at autem quisquam accusantium non? Blanditiis
-              voluptates necessitatibus earum. Facere, sit eligendi molestiae
-              voluptate nulla earum dignissimos. Iste quis consectetur adipisci
-              aliquam ad cupiditate at sit eum doloribus? Deleniti velit
-              deserunt quasi harum hic aut voluptatem consequuntur, quos non?
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ipsa
+              quae, explicabo numquam eveniet laudantium tempore natus aliquam
+              dolorum excepturi.
             </p>
             <Button bg="#ff0099" color="#fff">
               Get Started For Free
